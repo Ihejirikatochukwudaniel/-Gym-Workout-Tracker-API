@@ -1,0 +1,4 @@
+"""SQLAlchemy base metadata for migrations and models."""
+from sqlalchemy.orm import declarative_base
+
+Base = declarative_base()
