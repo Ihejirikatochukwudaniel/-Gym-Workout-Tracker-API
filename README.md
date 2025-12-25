@@ -602,11 +602,11 @@ Use meaningful variable names
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-Tochukwu Ihejirika
+Your Name
 
-GitHub: @ihejirikatochukwudaniel
-LinkedIn: https://www.linkedin.com/in/tochukwu-ihejirika-daniel-902a51203/
-Email: tochukwuihejirka3@gmail.com
+GitHub: ihejirikatochukwudaniel
+LinkedIn: linkedin.com/in/tochukwu-ihejirika-daniel-902a51203/
+Email: tochukwuihejirika3@gmail.com
 
 
 🙏 Acknowledgments
@@ -649,4 +649,4 @@ Version 2.0 (Future)
  Nutrition tracking integration
 
 
-Built for fitness enthusiasts and developers
+Built with ❤️ for fitness enthusiasts and developers
